@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1593741750 source:/media/artur/DADOS/DEV/c/pagamento/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

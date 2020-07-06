@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593816546 source:/media/artur/DADOS/DEV/c/consumo/main.c
+	<stdio.h>
+	<stdlib.h>
+

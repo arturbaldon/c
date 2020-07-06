@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1592087280 source:/media/artur/DADOS/DEV/c/idades/main.c
+	<stdio.h>
+	<stdlib.h>
+

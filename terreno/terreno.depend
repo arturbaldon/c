@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1592064420 source:/media/artur/DADOS/DEV/c/terreno/main.c
+	<stdio.h>
+	<stdlib.h>
+

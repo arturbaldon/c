@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593724072 source:/media/artur/DADOS/DEV/c/troco/main.c
+	<stdio.h>
+	<stdlib.h>
+

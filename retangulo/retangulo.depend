@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1592079552 source:/media/artur/DADOS/DEV/c/retangulo/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
