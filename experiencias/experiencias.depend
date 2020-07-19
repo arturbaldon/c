@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1595193496 source:/media/artur/DADOS/DEV/c/experiencias/main.c
+	<stdio.h>
+	<stdlib.h>
+
