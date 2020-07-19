@@ -1,0 +1,36 @@
+/*
+    PROBLEMA "VALIDAÇÃO DE NOTA"
+    VER ARQUIVO "05-ESTRUTURA-CONDICIONAL-EXERCICIOS").
+*/
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    /* DECLARACAO DE VARIAVEIS */
+    double nota1, nota2, media;
+
+    /* ENTRADA E PROCESSAMENTO DE DADOS */
+    printf("Digite a primeira nota: ");
+    scanf("%lf", &nota1);
+
+    while (nota1 < 0 || nota1 > 10) {
+        printf("Valor inválido! Tente novamente: ");
+        scanf("%lf", &nota1);
+    }
+
+    printf("Digite a segunda nota: ");
+    scanf("%lf", &nota2);
+
+    while (nota2 < 0 || nota2 > 10) {
+        printf("Valor inválido! Tente novamente: ");
+        scanf("%lf", &nota2);
+    }
+
+    media = (nota1 + nota2) / 2.0;
+    printf("MEDIA = %.2lf", media);
+
+    /* FIM */
+    return 0;
+}

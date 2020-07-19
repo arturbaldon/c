@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1594076832 source:/media/artur/DADOS/DEV/c/temperatura/main.c
+	<stdio.h>
+	<stdlib.h>
+
