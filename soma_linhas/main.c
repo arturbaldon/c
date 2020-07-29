@@ -38,11 +38,6 @@ int main()
         printf("%.1lf\n", vet[i]);
     }
 
-
-
-
-
-
     /* FIM */
     return 0;
 }

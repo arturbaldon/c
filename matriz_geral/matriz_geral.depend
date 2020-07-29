@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595980618 source:/media/artur/DADOS/DEV/c/matriz_geral/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
