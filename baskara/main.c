@@ -22,7 +22,7 @@ int main()
 
     delta = pow(b, 2.0) - (4 * a * c);
 
-    if (a == 0 || delta < 0) {
+    if (delta < 0) {
         printf("Esta equação não possui raízes reais");
     }
     else {
